@@ -21,7 +21,7 @@ The Airbnb Dataset comprises 87,946 rows of booking data collected from the plat
 Our analysis involves:
 - Data preprocessing: Cleaning and formatting the dataset for analysis.
 - Exploratory data analysis (EDA): Visualizing and summarizing key features of the dataset.
-- Statistical analysis: Calculating correlations and conducting hypothesis testing to uncover relationships within the data.
+- Statistical analysis: Calculating correlations to uncover relationships within the data.
 - Interpretation: Drawing insights and conclusions from the analysis results.
 
 ## Usage
