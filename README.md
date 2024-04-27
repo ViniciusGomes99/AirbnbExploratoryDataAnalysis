@@ -30,3 +30,6 @@ To replicate our analysis, follow these steps:
 1. Download the Airbnb Dataset (provide link if available).
 2. Run the provided Jupyter Notebook or Python script to perform the analysis.
 3. Explore the results and draw your own conclusions.
+
+## Contact Information
+For any queries or feedback, please contact me through my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)
